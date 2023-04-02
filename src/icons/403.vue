@@ -8,6 +8,6 @@
       回复：<span style="color: #e9415a; font-weight: bold; font-size: 17px; margin-bottom: 45px;">403</span>
       <br>即可获得<span style="color: #e9415a; font-weight: bold;"> 验证码 </span>解锁 🔓
     </p>
-    <img src="https://s1.ax1x.com/2023/04/01/ppWs6H0.jpg" style="text-align:display: block; margin: 0 auto;center;width:180px;margin-top:10px;margin-bottom:10px;border:8px solid rgb(230, 230, 230);">
+    <img src="https://s2.loli.net/2023/04/02/IorLFnW2fEGQ1Up.jpg" style="text-align:display: block; margin: 0 auto;center;width:180px;margin-top:10px;margin-bottom:10px;border:8px solid rgb(230, 230, 230);">
   </div>
 </template>
