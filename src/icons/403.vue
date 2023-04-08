@@ -4,9 +4,8 @@
   <!--  </div> -->
   <div class="w-[300px] m-auto" style="text-align:center;">
 	    <img src="https://s2.loli.net/2023/04/09/LpQvrxylDoeKsCV.png" style="text-align:display: block; margin: 0 auto;center;width:180px;margin-top:10px;margin-bottom:10px;border:8px solid rgb(230, 230, 230);">
-    <p style="margin-top: 10px; line-height: 1.8; font-size: 17px;">
-      关注公众号：<span style="color: #E9405A; font-weight: bold;">AI研究</span>
-      获取：<span style="color: #e9415a; font-weight: bold; font-size: 17px; margin-bottom: 45px;">验证码</span>
+    <p style="margin-top: 10px; line-height: 1.8; font-size: 15px;">
+      关注公众号获取：<span style="color: #e9415a; font-weight: bold; font-size: 15px; margin-bottom: 45px;">验证码</span>
     </p>
 
   </div>
