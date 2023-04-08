@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失败',
     verify: '验证',
-    unauthorizedTips: '打开微信扫描下方二维码',
+    unauthorizedTips: '打开微信扫一扫',
   },
   chat: {
     newChatButton: '新建聊天',
