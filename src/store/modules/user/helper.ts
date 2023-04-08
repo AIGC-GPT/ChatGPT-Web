@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/hehan-wang/chatgpt-web/main/src/assets/avatar.jpg',
-      name: '【程序员鹤涵】',
-      description: '<a href="https://github.com/hehan-wang" class="text-blue-500" target="_blank" >微信:hehan4096</a>',
+      avatar: 'https://s2.loli.net/2023/04/08/wJbRZSMnVmYajNi.png',
+      name: '【AI研究】',
+      description: '<a href="https://github.com/Andecen/chatgpt-web" class="text-blue-500" target="_blank" >微信:HF_We1</a>',
     },
   }
 }

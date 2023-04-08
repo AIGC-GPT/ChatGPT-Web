@@ -4,10 +4,10 @@
   <!--  </div> -->
   <div class="w-[300px] m-auto" style="text-align:center;">
     <p style="margin-top: 10px; line-height: 1.8; font-size: 13px;">
-      扫码或搜索公众号：<span style="color: #E9405A; font-weight: bold;">程序员鹤涵</span>
+      扫码或搜索公众号：<span style="color: #E9405A; font-weight: bold;">AI研究</span>
       回复：<span style="color: #e9415a; font-weight: bold; font-size: 17px; margin-bottom: 45px;">403</span>
       <br>即可获得<span style="color: #e9415a; font-weight: bold;"> 验证码 </span>解锁 🔓
     </p>
-    <img src="https://s2.loli.net/2023/04/02/IorLFnW2fEGQ1Up.jpg" style="text-align:display: block; margin: 0 auto;center;width:180px;margin-top:10px;margin-bottom:10px;border:8px solid rgb(230, 230, 230);">
+    <img src="https://s2.loli.net/2023/04/08/kTY5rN4lyVLcXIp.png" style="text-align:display: block; margin: 0 auto;center;width:180px;margin-top:10px;margin-bottom:10px;border:8px solid rgb(230, 230, 230);">
   </div>
 </template>
