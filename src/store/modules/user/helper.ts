@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://s2.loli.net/2023/04/08/wJbRZSMnVmYajNi.png',
-      name: '【AI研究】',
-      description: '<a href="https://github.com/Andecen/chatgpt-web" class="text-blue-500" target="_blank" >微信:HF_We1</a>',
+      name: 'ChatGPT之家',
+      description: '<a href="https://github.com/Andecen/chatgpt-web" class="text-blue-500" target="_blank" >欢迎关注微信公众号：AI研究</a>',
     },
   }
 }
